@@ -63,5 +63,5 @@ Thanks
 ------
 
 
-Thanks to the original [https://www.twitch.tv/twitchplayspokemon](twitch plays pokemon). And thanks to  [stephentoth](https://github.com/stephentoth) for their contributions.
+Thanks to the original [twitch plays pokemon](https://www.twitch.tv/twitchplayspokemon). And thanks to  [stephentoth](https://github.com/stephentoth) for their contributions.
 
