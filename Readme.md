@@ -1,9 +1,8 @@
-Twitch Votes App
-================
+Twitch Votes
+============
 
 
 For many reasons, it's useful to pull votes out of twitch chat. This daemon lets you pull votes from twitch and expose the results over REST, leaving you free to write code that matters more.
-
 
 
 Endpoints:
@@ -57,3 +56,12 @@ Be sure to make your own theme. To use it, just put the name of the folder as th
 * terminal&#42;: Command line like interface.
 
 &#42; Has a config file
+
+
+
+Thanks
+------
+
+
+Thanks to the original [https://www.twitch.tv/twitchplayspokemon](twitch plays pokemon). And thanks to  [stephentoth](https://github.com/stephentoth) for their contributions.
+
